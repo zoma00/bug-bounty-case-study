@@ -5,11 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/hackerone-badge.svg" alt="HackerOne Badge" width="220" />
-</p>
-
-<p align="center">
-  <img src="./assets/case-study-cover.jpg" alt="Case Study Cover" width="760" />
+  <img src="./assets/hackerone.jpeg" alt="hackerone" width="220" />
 </p>
 
 ---
